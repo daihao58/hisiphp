@@ -354,8 +354,4 @@ class User extends Admin
         }
         return $this->error($model->getError());
     }
-
-    public function test(){
-
-    }
 }
