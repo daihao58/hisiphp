@@ -8,4 +8,4 @@
 // +----------------------------------------------------------------------
 // | Author: 橘子俊 <364666827@qq.com>，开发者QQ群：50304283
 // +----------------------------------------------------------------------
-return ['key' => '$2y$10$JxL20N1re5qYHrfKBgJnPuzmlMthI82J65vQDp0Evsfrh48KAf54a'];
+return ['key' => '$2y$10$GfdCaPOWKhuWOhy8Zi8EgusjSobgEoto6aAMtEedrw2p4BbmQiGHW'];

@@ -1,12 +1,12 @@
 ---------------------------------------------------------------
-[ 2018-02-06T10:28:41+08:00 ] 127.0.0.1 GET /favicon.ico
-[ info ] hisiphp.test.com/favicon.ico [运行时间：0.067726s][吞吐率：14.77req/s] [内存消耗：3,564.23kb] [文件加载：55]
+[ 2018-02-06T11:25:05+08:00 ] 127.0.0.1 GET /favicon.ico
+[ info ] hisiphp.test.com/favicon.ico [运行时间：0.059803s][吞吐率：16.72req/s] [内存消耗：3,564.02kb] [文件加载：55]
 [ error ] [0]模板文件不存在:E:\wamp64\www\hisiphp/app/install\view\favicon\ico\index.php[E:\wamp64\www\hisiphp\thinkphp\library\think\view\driver\Think.php:80]
 ---------------------------------------------------------------
-[ 2018-02-06T10:28:44+08:00 ] 127.0.0.1 GET /favicon.ico
-[ info ] hisiphp.test.com/favicon.ico [运行时间：0.047156s][吞吐率：21.21req/s] [内存消耗：3,564.24kb] [文件加载：55]
+[ 2018-02-06T11:25:06+08:00 ] 127.0.0.1 GET /favicon.ico
+[ info ] hisiphp.test.com/favicon.ico [运行时间：0.064700s][吞吐率：15.46req/s] [内存消耗：3,564.07kb] [文件加载：55]
 [ error ] [0]模板文件不存在:E:\wamp64\www\hisiphp/app/install\view\favicon\ico\index.php[E:\wamp64\www\hisiphp\thinkphp\library\think\view\driver\Think.php:80]
 ---------------------------------------------------------------
-[ 2018-02-06T10:29:05+08:00 ] 127.0.0.1 GET /favicon.ico
-[ info ] hisiphp.test.com/favicon.ico [运行时间：0.070812s][吞吐率：14.12req/s] [内存消耗：3,564.24kb] [文件加载：55]
+[ 2018-02-06T11:25:08+08:00 ] 127.0.0.1 GET /favicon.ico
+[ info ] hisiphp.test.com/favicon.ico [运行时间：0.062070s][吞吐率：16.11req/s] [内存消耗：3,563.90kb] [文件加载：55]
 [ error ] [0]模板文件不存在:E:\wamp64\www\hisiphp/app/install\view\favicon\ico\index.php[E:\wamp64\www\hisiphp\thinkphp\library\think\view\driver\Think.php:80]
